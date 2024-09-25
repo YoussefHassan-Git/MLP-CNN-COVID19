@@ -12,7 +12,7 @@ This project uses **Convolutional Neural Networks (CNN)** and **Multi-Layer Perc
 - [Model Performance](#model-performance)
 - [Sample Images](#sample-images)
 - [Training and Validation Graphs](#training-and-validation-graphs)
-- [Testing Sample Output](#testing-samle-output)
+- [Testing Sample Output](#testing-sample-output)
 
   
 ---
