@@ -86,7 +86,9 @@ The model achieved the following metrics on the test data:
 ## 📊 Training and Validation Graphs
 
  `MLP Model`
+ 
 **Training and Validation Loss:**
+
 ![13eed7a9-5029-49be-b72a-eb89062c821c](https://github.com/user-attachments/assets/9ffbb201-bb6c-4fe1-86c6-5a49e6d863e9)
 
 
@@ -95,7 +97,10 @@ The model achieved the following metrics on the test data:
 ![3a122eac-13eb-442e-93a8-aebef6c168c1](https://github.com/user-attachments/assets/58bb2f1c-c383-4564-99e2-18d54550f90e)
 ---
 `CNN Model`
+
+
 **Training and Validation Loss:**
+
 ![27ba904f-c66c-471b-bb9f-460295ca4c0e](https://github.com/user-attachments/assets/a59ddf41-ed68-4599-b9d0-cf35e08bc87f)
 
 **Training and Validation Accuracy:**
@@ -106,9 +111,11 @@ The model achieved the following metrics on the test data:
 ---
 
 ## 📷 Sample Images
+
 ![31891d00-0c4e-4c7c-8d50-7261929242ed](https://github.com/user-attachments/assets/2eecbf51-79bc-4880-8326-ac3f8d13bfd9)
 
 
 ## Testing Sample Output
+
 ![db63ff15-1042-4485-88dc-35cb8fb30742](https://github.com/user-attachments/assets/db4de75d-182e-493d-93eb-acc95a389d82)
 
