@@ -8,14 +8,13 @@ This project uses **Convolutional Neural Networks (CNN)** and **Multi-Layer Perc
 - [Dataset](#dataset)
 - [Model Architecture MLP](#model-architecture-mlp)
 - [CNN Model Architecture](#cnn-model-architecture)
-- 
+  
 - [Training](#training)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Performance](#model-performance)
 - [Sample Images](#sample-images)
-
-- [Model Architecture Diagram](#model-architecture-diagram)
 - [Training and Validation Graphs](#training-and-validation-graphs)
+- [Testing Sample Output](#testing-samle-output)
 
   
 ---
@@ -108,4 +107,8 @@ The model achieved the following metrics on the test data:
 
 ## 📷 Sample Images
 ![31891d00-0c4e-4c7c-8d50-7261929242ed](https://github.com/user-attachments/assets/2eecbf51-79bc-4880-8326-ac3f8d13bfd9)
+
+
+## Testing Sample Output
+![db63ff15-1042-4485-88dc-35cb8fb30742](https://github.com/user-attachments/assets/db4de75d-182e-493d-93eb-acc95a389d82)
 
