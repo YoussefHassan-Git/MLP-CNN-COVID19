@@ -1,6 +1,5 @@
 # 🧬 COVID-19 Detection using CNN and MLP 
-This project uses **Convolutional Neural Networks (CNN)** and **Multi-Layer Perceptron (MLP)** to detect COVID-19 from medical images. The dataset used for training contains chest X-rays, and the model aims to classify images into **COVID-positive** or **COVID-negative** categories. The model achieved a **96% accuracy** on the test set.
-
+This project uses **Convolutional Neural Networks (CNN)** and **Multi-Layer Perceptron (MLP)** to detect COVID-19 from medical images. The dataset used for training contains chest X-rays, and the model aims to classify images into **COVID-positive** or **COVID-negative** categories.
 ## 📚 Table of Contents
 
 - [Project Overview](#project-overview)
